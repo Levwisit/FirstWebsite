@@ -63,19 +63,19 @@ h2 {
 
 /* Add the images inside each card */
 .container .glass:nth-child(1) {
-    background-image: url('https://i.pinimg.com/736x/52/99/2c/52992c4e297752c102f272bfe421c9f9.jpg'); /* First image */
+    background-image: url('2.jpg'); /* First image */
     background-size: cover;
     background-position: center;
 }
 
 .container .glass:nth-child(2) {
-    background-image: url('https://i.pinimg.com/736x/0c/44/bf/0c44bfac15b41a149ef14ad93fc880f6.jpg'); /* Second image */
+    background-image: url('3.jpeg'); /* Second image */
     background-size: cover;
     background-position: center;
 }
 
 .container .glass:nth-child(3) {
-    background-image: url('https://i.pinimg.com/736x/81/89/dd/8189dd0aead109eb730c5deb86d4de48.jpg'); /* Third image */
+    background-image: url('1.jpg'); /* Third image */
     background-size: cover;
     background-position: center;
 }
